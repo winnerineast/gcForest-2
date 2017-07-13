@@ -1,6 +1,6 @@
 gcForest v1.0
 ========
-This is the official clone for the implementation of gcForest.
+This is the official clone for the implementation of gcForest.(The University's webserver is unstable sometimes, therefore we put the official clone here at github)
 
 Package Official Website: http://lamda.nju.edu.cn/code_gcForest.ashx
 
@@ -19,12 +19,23 @@ which is specified in requirements.txt
 ATTN: This package was developed and maintained by Mr.Ji Feng(http://lamda.nju.edu.cn/fengj/) .For any problem concerning the codes, please feel free to contact Mr.Feng.（fengj@lamda.nju.edu.cn)  or open some issues here.
 
 
+News For the Next Version ( Version 1.1)
+========
+In the next version, wrappers like
+```model.fit()  model.predict()```
+will be supported.
+
+Please stay tuned.
+
+
+
 package dependencies
 ========
 The package is developed in python 2.7, higher version of python is not suggested for the current version.
 
 run the following command to install dependencies before running the code:
 ```pip install -r requirements.txt```
+
 
 
 
